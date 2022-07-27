@@ -1,0 +1,50 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+      "vehicles": [
+        {
+          "id": 18,
+          "price": 500000,
+          "details": {
+            "make": "Aston Martin",
+            "model": "DB9 GT",
+            "year": "2005",
+            "type": "Hatchback",
+            "transmission": "Automatic",
+            "odometer": "40k - 80k kilometers",
+            "market_value": "3 million - 9 million"
+          },
+          "pick_up": "Aliyu Modibbo Street, Abuja, Nigeria",
+          "drop_off": "Yaba, Oworonshoki, Nigeria",
+          "features": [
+            "All-wheel Drive",
+            "Aux input",
+            "Backup camera"
+          ],
+          "avg_rating": null,
+          "total_trips": 0,
+          "description": "my car",
+          "licence_state": "Bauchi State",
+          "licence_number": "123456787654",
+          "vehicle_photos": [
+            {
+              "id": 23,
+              "url": "https://res.cloudinary.com/staarm-com/image/upload/c_scale,w_375/r_8:8:0:0/f_png/v1/vehicle-pic/14-Hw7TFVXJeGWLIhZSikXjhkkEaJWLzx2lkt9gB2Qk?_a=AAAH2AI",
+              "cover": true
+            }
+          ],
+          "vehicle_owner": {
+            "id": 14,
+            "dob": null,
+            "email": "jonathan@staarm.com",
+            "about": null,
+            "approved": false,
+            "joined_at": "Dec 2021",
+            "last_name": "Jude",
+            "first_name": "Jonathan"
+          }
+        }
+      ]
+    }
+  }

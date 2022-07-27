@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804848999687",
+    "firebase_url": "https://staarm-mobile-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "staarm-mobile",
+    "storage_bucket": "staarm-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804848999687:android:dea8969efb25f75a88f9a2",
+        "android_client_info": {
+          "package_name": "com.staarm.staarm_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804848999687-8jacn887ij4h9s0qm4ei0nfiv1kc082g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeKDMygmXAVSrUu8mIORCUbBMYqk7h75k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804848999687-8jacn887ij4h9s0qm4ei0nfiv1kc082g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804848999687-v5igbe50qln2rson1ed789v9fmncqf0s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.staarm.staarmMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
